@@ -8,9 +8,9 @@ def question7_2():
 
 def question7_3():
     answer = [
-        ('infinity', 0.),  
-        (1., 3.),              
+        (0., 4.),  
         (4., 5.),              
-        (6., 'infinity')    
+        (5., 8.),              
+        (8., 'infinity')    
     ]
     return answer
