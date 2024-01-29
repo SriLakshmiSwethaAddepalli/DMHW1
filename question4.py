@@ -1,17 +1,17 @@
 def question4_1():
-    answer = ['Nominal', 'Oridinal']
+    answer = ['Nominal', 'Ordinal']
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Oridinal']
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_3():
-    answer = ['Ratio', 'Oridinal'] 
+    answer = ['Ratio', 'Ordinal'] 
     return answer
 
 def question4_4():
-    answer = ['Ratio', 'Oridinal']
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_5():
@@ -19,7 +19,7 @@ def question4_5():
     return answer
 
 def question4_6():
-    answer = ['Ratio', 'Oridinal']
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_7():
