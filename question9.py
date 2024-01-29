@@ -1,5 +1,5 @@
 def question9_1():
-    answer = 'Jaccard'
+    answer = 'SMC'
     return answer
 
 def question9_2():
